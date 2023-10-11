@@ -1,0 +1,23 @@
+.home {
+    background-image: url("../../public/Images/Home-Image.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+.flexp{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+  .home-intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:80%;
+    font-size: 2.5rem;
+    font-weight: bolder;
+  }
